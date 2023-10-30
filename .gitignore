@@ -1,0 +1,8 @@
+node_modules/
+.npm
+dist/
+src/firebase.js
+.idea
+src/firebase_config_example.js
+.next/
+src/NewData.js

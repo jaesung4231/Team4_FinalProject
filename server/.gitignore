@@ -1,0 +1,10 @@
+node_modules/
+.idea
+firebaseKey.json
+<<<<<<< HEAD
+public/
+dockerfile
+.dockerignore
+=======
+.public/
+>>>>>>> 370d0a0ff625ad4c99fbac8f25dc8172aaccbb77
